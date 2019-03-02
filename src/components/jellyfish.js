@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Link } from "gatsby";
 
 import { TweenMax, Linear, TimelineMax, Back } from 'gsap';
 
@@ -48,7 +47,7 @@ export default class Jellyfish extends Component {
   }
 
   render() {
-    
+
     return (
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530.46 563.1">
         <defs>
