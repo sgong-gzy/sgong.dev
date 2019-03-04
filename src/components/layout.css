@@ -200,6 +200,8 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
+  height: 100vh;
+  width: 100%;
   font-family: georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
@@ -619,4 +621,19 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+
+.connect {
+  z-index: 1001;
+  position: fixed;
+  display: inline-flex;
+  left: 48px;
+  bottom: 48px;
+  width: 100%;
+  height: auto;
+  text-align: left;
+  font-size: 36px;
+}
+.fa-github {
+  color: white;
 }
