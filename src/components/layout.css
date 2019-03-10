@@ -634,6 +634,12 @@ pre tt:after {
   text-align: left;
   font-size: 36px;
 }
+.social-link {
+  padding: 8px;
+}
 .fa-github {
+  color: white;
+}
+.fa-instagram {
   color: white;
 }
