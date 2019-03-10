@@ -8,6 +8,9 @@ const Footer = () => (
     <a className="social-link" target="_blank" href="https://www.instagram.com/sgyue">
       <i class="fab fa-instagram"></i>
     </a>
+    <a className="social-link" target="_blank" href="https://sgong-gzy.github.io/">
+      <i class="fas fa-cat"></i>
+    </a>
   </div>
 )
 
